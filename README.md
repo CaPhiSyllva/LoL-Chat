@@ -1,4 +1,4 @@
-# Documentação da Aplicação League Chat Championships 2024 (PROJETO AINDA NÃO FINALIZADO)
+# League Chat Championships 2024 (PROJETO AINDA NÃO FINALIZADO)
 
 ## Visão Geral
 

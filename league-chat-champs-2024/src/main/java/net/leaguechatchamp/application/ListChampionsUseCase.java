@@ -9,4 +9,6 @@ public record ListChampionsUseCase(ChampionsRepository Repository) {
     public List<Champions> findAll() {
         return Repository.findAll();
     }
+
+    
 }

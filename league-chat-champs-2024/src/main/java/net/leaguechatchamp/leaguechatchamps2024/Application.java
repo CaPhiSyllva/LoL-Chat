@@ -19,3 +19,4 @@ public class Application {
 		return new  ListChampionsUseCase(championsRepository);
 	}
 }
+
